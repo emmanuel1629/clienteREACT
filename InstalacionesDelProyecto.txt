@@ -1,0 +1,8 @@
+	VALIDACION DE FORMULARIOS
+->	https://www.react-hook-form.com/
+Para validar los campos y guardar la informacion en un estado
+Se importa de su libreria en las paginas que contengan formularios
+
+	CONEXION CON EL API
+->	AXIOS = npm i axios
+
